@@ -31,7 +31,7 @@ I build and evaluate AI systems, including multi-agent pipelines, retrieval-augm
 | Project | Description | Stack |
 |---|---|---|
 | [**Multimodal RAG**](https://github.com/antarikshad/Multimodal-RAG) | A RAG system that retrieves both text and images from ArXiv papers. Hybrid search reduced query latency by 95%. | Python, PyTorch, CLIP, ChromaDB, Ollama |
-| [**AI Desktop Assistant**](https://github.com/antarikshad/AI-Deskstop-Assistant) | Speech command recognition with CNN and MFCC features, 25–35% more accurate than baseline models in noisy settings. | PyTorch, CNN, LLM integration |
+| [**AI Desktop Assistant**](https://github.com/antarikshad/AI-Desktop-Assistant) | Speech command recognition with CNN and MFCC features, 25–35% more accurate than baseline models in noisy settings. | PyTorch, CNN, LLM integration |
 | [**TrustNova**](https://github.com/antarikshad/TrustNova) | A loan approval and credit scoring model, compared across Logistic Regression, Random Forest and XGBoost. It reduced manual review effort by 40%. | Python, XGBoost, scikit-learn |
 | [**Portfolio**](https://github.com/antarikshad/Portfolio) | A full-stack personal site with reusable React components and Flask REST APIs. | React, TypeScript, Flask |
 
