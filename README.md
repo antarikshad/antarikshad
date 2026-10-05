@@ -66,4 +66,5 @@ An automated loan-approval and credit-scoring model. I compared Logistic Regress
 - Selecting embedding models for multimodal retrieval using logged traces instead of leaderboard scores
 
 ### Get in Touch
+<a href="https://www.linkedin.com/in/antariksha-dhanuree/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:antarikshadhanure@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
